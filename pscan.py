@@ -20,7 +20,7 @@ banner = termcolor.colored(f"""
 | |_) | (_) | |  | |_  \__ \ (_| (_| | | | | | | |  __/ |
 | .__/ \___/|_|   \__| |___/\___\__,_|_| |_|_| |_|\___|_|
 |_|
-                ## Coded By >> Th3-Dragon
+                ## Coded By >> Cracker
 
 Target IP: {ip} 
 """, 'blue')
@@ -46,3 +46,4 @@ for port in range(65535):
 
 # close connection
 client.close()
+
